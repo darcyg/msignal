@@ -1,0 +1,11 @@
+{
+    "name": "msignal",
+    "url": "http://github.com/massiveinteractive/msignal",
+    "license": "MIT",
+    "tags": [ "cross", "utility", "massive"],
+    "description": "A Haxe port of the ActionScript 3 Signals library that leverages Haxe type parameters. Supports AVM1, AVM2, JavaScript, Neko and C++.",
+    "version": "1.2.0",
+    "releasenote": "Adds support for Haxe 3.",
+    "contributors": [ "massive" ],
+    "dependencies": {}
+}
